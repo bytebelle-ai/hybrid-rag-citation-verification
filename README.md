@@ -101,8 +101,6 @@ cd hybrid-rag-citation-verification
 
 ```
 
-Replace `bytebelle-ai` with your GitHub username.
-
 **2. Create a virtual environment**
 
 ```bash
