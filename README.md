@@ -95,11 +95,13 @@ Streamlit User Interface
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/hybrid-rag-project.git
-cd hybrid-rag-project
+
+git clone https://github.com/bytebelle-ai/hybrid-rag-citation-verification.git
+cd hybrid-rag-citation-verification
+
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
+Replace `bytebelle-ai` with your GitHub username.
 
 **2. Create a virtual environment**
 
