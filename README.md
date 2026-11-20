@@ -26,15 +26,19 @@ The system generates answers using retrieved document content and includes sourc
 
 ![Generated Answer](assets/screenshots/answer.png)
 
+
 ### 3. Citation Verification
+
 Each claim is checked against its cited source and marked as Supported or Not Supported.
 
-![Citation Verification](assets/screenshots/verification.png)
+![Citation Verification](assets/screenshots/sources.png)
 
 ### 4. Retrieved Document Sources
+
 The application displays the PDF documents and page numbers used during answer generation.
 
-![Retrieved Sources](assets/screenshots/sources.png)
+![Retrieved Sources](assets/screenshots/verification.png)
+
 
 
 ## Tech Stack
